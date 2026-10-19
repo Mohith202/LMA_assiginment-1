@@ -1,0 +1,38 @@
+{
+  "Are there any exceptions for NEOs regarding their participation in the ESPP?": {
+    "answer1_baseline": "The context does not say.",
+    "answer2_reranked": "No exceptions were mentioned for NEOs regarding their participation in the ESPP. The context states that all NEOs are eligible to participate in the ESPP unless otherwise prohibited by the rules of the Internal Revenue Service, which is the same basis as other employees."
+  },
+  "What did not change in Fiscal 2024 compared to Fiscal 2023 for NEOs?": {
+    "answer1_baseline": "Base salaries and variable cash opportunities for NEOs remained unchanged in Fiscal 2024 compared to Fiscal 2023. The target pay levels were kept flat, with no intended increases in target equity opportunities.",
+    "answer2_reranked": "Base salaries and variable cash opportunities did not change for NEOs between Fiscal 2023 and Fiscal 2024. Additionally, the total target pay amounts remained flat, with no intended increases to target equity opportunities."
+  },
+  "On what date did John O. Dabiri adopt the trading arrangement for selling NVIDIA common stock?": {
+    "answer1_baseline": "The context does not say.",
+    "answer2_reranked": "John O. Dabiri adopted the trading arrangement on December 18, 2023."
+  },
+  "During which Fall season did the company contact its top institutional holders for stockholder outreach?": {
+    "answer1_baseline": "In the Fall of 2023, the company contacted its top institutional stockholders representing an aggregate ownership of 31% to gain insights into their views on corporate sustainability practices and diversity and inclusion.",
+    "answer2_reranked": "During the Fall of 2023, the company contacted its top institutional holders for stockholder outreach."
+  },
+  "Under what conditions are documents available free of charge on your website?": {
+    "answer1_baseline": "The context does not say.",
+    "answer2_reranked": "Documents, including annual reports on Form 10-K, quarterly reports on Form 10-Q, current reports on Form 8-K, and amendments to those reports, are available free of charge on NVIDIA's website at http://www.nvidia.com as soon as reasonably practicable after being electronically filed with or furnished to the Securities and Exchange Commission."
+  },
+  "What share of total revenue came from the single largest customer?": {
+    "answer1_baseline": "Sales to one customer, Customer A, represented 13% of total revenue for fiscal year 2024, which was attributable to the Compute & Networking segment.",
+    "answer2_reranked": "For fiscal year 2024, sales to one customer represented 13% of total revenue, which was attributable to the Compute & Networking segment."
+  },
+  "In fiscal year 2024, how much was distributed to shareholders through quarterly cash dividends?": {
+    "answer1_baseline": "In fiscal year 2024, NVIDIA paid $395 million in quarterly cash dividends.",
+    "answer2_reranked": "In fiscal year 2024, NVIDIA paid $395 million in quarterly cash dividends."
+  },
+  "What is NOT allowed under the insider trading policy?": {
+    "answer1_baseline": "The context does not say what is NOT allowed under the insider trading policy; it only states that employees, officers, and directors must avoid any activity that conflicts with, or has the appearance of conflicting with, NVIDIA's interests.",
+    "answer2_reranked": "The context does not say."
+  },
+  "Which directors on the board are not independent?": {
+    "answer1_baseline": "The context does not say.",
+    "answer2_reranked": "The context does not say which directors on the board are not independent, as it only mentions that 11 out of the 12 standing for re-election are independent directors, and one is NVIDIA's President and CEO."
+  }
+}

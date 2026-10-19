@@ -1,0 +1,10 @@
+category,query,gold_chunk,base_rank,rerank_rank,dense_rank_if_missed,gold_in_top3_base,gold_in_top3_rerank,answer1_ok,answer2_ok,shift
+Exception / corner case,Are there any exceptions for NEOs regarding their participation in the ESPP?,259,7.0,1.0,,False,True,False,True,#7 -> #1
+Negation,What did not change in Fiscal 2024 compared to Fiscal 2023 for NEOs?,211,4.0,1.0,,False,True,True,True,#4 -> #1
+Keyword trap (name appears in many chunks),On what date did John O. Dabiri adopt the trading arrangement for selling NVIDIA common stock?,571,6.0,1.0,,False,True,False,True,#6 -> #1
+Buried chunk (rank 4-10),During which Fall season did the company contact its top institutional holders for stockholder outreach?,224,6.0,1.0,,False,True,False,False,#6 -> #1
+Buried chunk (rank 4-10),Under what conditions are documents available free of charge on your website?,394,7.0,1.0,,False,True,False,True,#7 -> #1
+Control (already rank 1),What share of total revenue came from the single largest customer?,549,1.0,1.0,,True,True,True,True,#1 -> #1
+Control (fact stated in several places),"In fiscal year 2024, how much was distributed to shareholders through quarterly cash dividends?",560,1.0,1.0,,True,True,True,True,#1 -> #1
+"Negative result: negation, evidence never retrieved",What is NOT allowed under the insider trading policy?,268,,,110.0,False,False,False,False,not in Top-10 (dense rank #110)
+"Negative result: exception, evidence never retrieved",Which directors on the board are not independent?,63,,,51.0,False,False,False,False,not in Top-10 (dense rank #51)

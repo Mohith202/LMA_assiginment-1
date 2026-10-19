@@ -1,0 +1,5 @@
+stage,mean_ms,median_ms,p95_ms
+Pipeline 1: bi-encoder retrieval (top-10),5.8,5.8,5.9
+Pipeline 2: retrieval + cross-encoder re-rank,14.8,14.7,16.8
+LLM generation (same for both),492.7,475.8,615.9
+=> re-ranking overhead,9.0,8.899999999999999,10.9

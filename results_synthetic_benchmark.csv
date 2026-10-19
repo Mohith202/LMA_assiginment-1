@@ -1,0 +1,6 @@
+,n,in_top10,top3_baseline,top3_reranked,MRR_baseline,MRR_reranked
+all questions,260.0,0.881,0.715,0.835,0.6,0.736
+exception,65.0,0.908,0.738,0.877,0.605,0.795
+factual,65.0,0.908,0.662,0.846,0.543,0.736
+negation,65.0,0.738,0.646,0.692,0.528,0.627
+paraphrase,65.0,0.969,0.815,0.923,0.722,0.787
